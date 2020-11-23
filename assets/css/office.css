@@ -1,0 +1,100 @@
+/* ********** Works -> Tab (Horizontal menu) */
+.country_name{
+    font-size: 15px !important;
+    color: #f8f8f8;
+    text-align: center;
+}
+.Countries{
+    background-color: #26A9C5; 
+}
+
+.top-text-wrapper code{
+	font-size: .8em;
+	background: linear-gradient(90deg,white,white);
+	background: linear-gradient(90deg, white 10%, #ffe8cc 100%);
+	padding: .1rem .3rem .2rem;
+	border-radius: .2rem;
+}
+.tab-section-wrapper{
+    padding: 30px 0;
+}
+
+.tab-content{
+	margin-top: 5px;
+}
+.tab-horizontal .tab-content {
+    margin-top: 20px;
+}
+.tab-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: none;
+}
+.tab-nav-item {
+        list-style: none;
+        text-align: left;
+}
+.tab-nav-link {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    line-height: 2.88;
+    letter-spacing: -0.09px;
+    text-align: center;
+    color: #1f2949;
+}
+
+.tab-horizontal .tab-nav-item {
+    margin: 0px 28px;
+}
+
+.tab-nav-link.active {
+    color: #0352cc;
+}
+
+.tab-nav-item:first-child {
+    margin-left: 0;
+}
+
+.tab-nav-item:last-child {
+    margin-right: 0;
+}
+
+/* Tab (Vertical menu) */
+.tab-vertical .tab-wrapper{
+	display: flex;
+	align-items: flex-start;
+}
+.tab-vertical .nav-tabs {
+    flex-basis: 250px;
+    flex-direction: column;
+    border: 0;
+}
+.tab-vertical .tab-content{
+	flex-basis: calc( 100% - 250px);
+	padding-left: 20px;
+}
+.tab-vertical .nav-tabs li a {
+    display: block;
+}
+
+.tab-vertical .nav-tabs li:not(:first-child) {
+    margin-top: 2px;
+}
+
+.tab-vertical .tab-nav-item {
+    background: #fafafa;
+}
+.tab-vertical .tab-content{
+		margin-top: 0px;
+		background: #fafafa;
+		padding: 20px;
+}
+@media screen and (max-width:767px){
+		.tab-vertical .tab-content{
+			margin-top: 3px;
+		}
+		.tab-vertical .tab-wrapper{
+			display: block;
+		}
+}

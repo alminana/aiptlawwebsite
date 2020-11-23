@@ -1,0 +1,304 @@
+<div id="demo-agents">
+ <ul>
+  <li id="algeria">
+
+    <!-- Algeria -->
+
+  </li>
+  <li id="angola">
+
+    <!-- Angola -->
+
+  </li>
+  <li id="benin">
+
+    <!-- Benin -->
+
+  </li>
+  <li id="botswana">
+
+    <!-- Botswana -->
+
+  </li>
+  <li id="burkina-faso">
+
+    <!-- Burkina Faso -->
+
+  </li>
+  <li id="burundi">
+
+    <!-- Burundi -->
+
+  </li>
+  <li id="cameroon">
+
+    <!-- Cameroon -->
+
+  </li>
+  <li id="cape-verde">
+
+    <!-- Cape Verde (Portugal) -->
+
+  </li>
+  <li id="canary-islands">
+
+    <!-- Canary Islands (Spain) -->
+
+  </li>
+  <li id="central-african-republic">
+
+    <!-- Central African Republic -->
+
+  </li>
+  <li id="chad">
+
+    <!-- Chad -->
+
+  </li>
+  <li id="comoros">
+
+    <!-- Comoros -->
+
+  </li>
+  <li id="congo">
+
+    <!-- Congo -->
+
+  </li>
+  <li id="cote-d-ivoire">
+
+    <!-- Côte d'Ivoire -->
+
+  </li>
+  <li id="democratic-republic-of-the-congo">
+
+    <!-- Democratic Republic of the Congo -->
+
+  </li>
+  <li id="djibouti">
+
+    <!-- Djibouti -->
+
+  </li>
+  <li id="egypt">
+
+    <!-- Egypt -->
+
+  </li>
+  <li id="equatorial-guinea">
+
+    <!-- Equatorial Guinea -->
+
+  </li>
+  <li id="eritrea">
+
+    <!-- Eritrea -->
+
+  </li>
+  <li id="ethiopia">
+
+    <!-- Ethiopia -->
+
+  </li>
+  <li id="gabon">
+
+    <!-- Gabon -->
+
+  </li>
+  <li id="gambia">
+
+    <!-- Gambia -->
+
+  </li>
+  <li id="ghana">
+
+    <!-- Ghana -->
+
+  </li>
+  <li id="guinea">
+
+    <!-- Guinea -->
+
+  </li>
+  <li id="guinea-bisaau">
+
+    <!-- Guinea-Bisaau -->
+
+  </li>
+  <li id="kenya">
+
+    <!-- Kenya -->
+
+  </li>
+  <li id="lesotho">
+
+    <!-- Lesotho -->
+
+  </li>
+  <li id="liberia">
+
+    <!-- Liberia -->
+
+  </li>
+  <li id="libya">
+
+    <!-- Libya -->
+
+  </li>
+  <li id="madagascar">
+
+    <!-- Madagascar -->
+
+  </li>
+  <li id="madeira">
+
+    <!-- Madeira (Portugal) -->
+
+  </li>
+  <li id="malawi">
+
+    <!-- Malawi -->
+
+  </li>
+  <li id="mali">
+
+    <!-- Mali -->
+
+  </li>
+  <li id="mauritania">
+
+    <!-- Mauritania -->
+
+  </li>
+  <li id="mauritius">
+
+    <!-- Mauritius -->
+
+  </li>
+  <li id="mayotte">
+
+    <!-- Mayotte (France) -->
+
+  </li>
+  <li id="morocco">
+
+    <!-- Morocco -->
+
+  </li>
+  <li id="mozambique">
+
+    <!-- Mozambique -->
+
+  </li>
+  <li id="namibia">
+
+    <!-- Namibia -->
+
+  </li>
+  <li id="niger">
+
+    <!-- Niger -->
+
+  </li>
+  <li id="nigeria">
+
+    <!-- Nigeria -->
+
+  </li>
+  <li id="reunion">
+
+    <!-- Réunion (France) -->
+
+  </li>
+  <li id="rwanda">
+
+    <!-- Rwanda -->
+
+  </li>
+  <li id="sahrawi-arab-democratic-republic">
+
+    <!-- Sahrawi Arab Democratic Republic -->
+
+  </li>
+  <li id="sao-tome-and-principe">
+
+    <!-- São Tomé and Príncipe -->
+
+  </li>
+  <li id="senegal">
+
+    <!-- Senegal -->
+
+  </li>
+  <li id="seychelles">
+
+    <!-- Seychelles -->
+
+  </li>
+  <li id="sierra-leone">
+
+    <!-- Sierra Leone -->
+
+  </li>
+  <li id="somalia">
+
+    <!-- Somalia -->
+
+  </li>
+  <li id="somaliland">
+
+    <!-- Somaliland -->
+
+  </li>
+  <li id="south-africa">
+
+    <!-- South Africa -->
+
+  </li>
+  <li id="south-sudan">
+
+    <!-- South Sudan -->
+
+  </li>
+  <li id="sudan">
+
+    <!-- Sudan -->
+
+  </li>
+  <li id="swaziland">
+
+    <!-- Swaziland -->
+
+  </li>
+  <li id="togo">
+
+    <!-- Togo -->
+
+  </li>
+  <li id="tunisia">
+
+    <!-- Tunisia -->
+
+  </li>
+  <li id="uganda">
+
+    <!-- Uganda -->
+
+  </li>
+  <li id="united-republic-of-tanzania">
+
+    <!-- United Republic of Tanzania -->
+
+  </li>
+  <li id="zambia">
+
+    <!-- Zambia -->
+
+  </li>
+  <li id="zimbabwe">
+
+    <!-- Zimbabwe -->
+
+  </li>
+ </ul>
+</div>
